@@ -1,1 +1,1 @@
-ABC-9999-ABC|2026-12-03|test_device
+ABC-9999-ABC|2026-12-03|none
